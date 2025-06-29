@@ -13,7 +13,7 @@
    <img src="images/Otaru_Keycaps_LP.png" width="250">  
    <br/><br/>  
       
- - [Encoder Knobs](/printables/Encoder-Knobs/) - Cute little twirly knobs you can use on your encoders
+ - [Encoder Knobs](/knobs/) - Cute little twirly knobs you can use on your encoders
 
    <img src="images/EC12-Knobs.png" width="250">  
    <br/><br/>  

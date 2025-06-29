@@ -23,9 +23,9 @@
 
 
  ## Additional 3D Printables
- - [MCU Cover/Protection](/v3/mcu/) - Microcontroller Covers for Extra Protection
+ - [MCU Cover/Protection for Drift Keyboard V3](/v3/mcu/) - Microcontroller Covers for Extra Protection
    
  - [Drift V2 and V3 Plates](/v3/plates/) - Plates for Drift V2 and V3 (Bambu Labs A1 Mini support in .3mf file)  
  
- - [Outer Parts (outer frame pieces)](/v3/outer-frame/) - Usually referred to as outer acrylic frame  
+ - [Outer Parts (outer frame pieces) for V2 and V3](/v3/outer-frame/) - Usually referred to as outer acrylic frame  
 <br/><br/>  

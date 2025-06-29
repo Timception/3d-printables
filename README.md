@@ -23,11 +23,9 @@
 
 
  ## Additional 3D Printables
- - [MCU Cover/Protection](/V3-MCU-Cover/) - Microcontroller Covers for Extra Protection
+ - [MCU Cover/Protection](/v3/mcu/) - Microcontroller Covers for Extra Protection
    
- - [Drift V2 and V3 Plates for Cherry MX Switches](/Drift-V2-and-V3-Cherry-Plates/) - Cherry Plates for Drift V2 and V3 (A1 Mini support in .3mf file)  
+ - [Drift V2 and V3 Plates](/v3/plates/) - Plates for Drift V2 and V3 (Bambu Labs A1 Mini support in .3mf file)  
  
- - [Drift V2 and V3 Plates for Choc V1/V2 Switches](/Drift-V2-and-V3-Choc-Plates/) - Choc Plates for Drift V2 and V3 (A1 Mini support in .3mf file)
- 
- - [Outer Parts (outer frame pieces)](/Outer-Acrylic/) - Usually referred to as outer acrylic frame  
+ - [Outer Parts (outer frame pieces)](/v3/outer-frame/) - Usually referred to as outer acrylic frame  
 <br/><br/>  

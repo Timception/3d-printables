@@ -29,6 +29,6 @@
 	
 2. [MCU Cover](/v3/mcu/) - Microcontroller covers for extra protection  
 	
-3. [Outer Frame](/v3/outer-frame/) - Outer parts usually referred to as outer acrylic frame  
+3. [Outer Frame](/v3/outer-frame/) - Outer parts usually referred to as the outer acrylic frame  
 	
-4. [Plates](/v3/plates/) - Plates for Drift Keyboard V3 (Bambu Lab A1 Mini size in .3mf file)  
+4. [Plates](/v3/plates/) - Switch plates (Bambu Lab A1 Mini version in .3mf file)  

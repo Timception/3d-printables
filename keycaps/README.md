@@ -1,11 +1,11 @@
 # Keycaps  
 
-1. [Cherry MX Compatible](/mx/) - Keycaps that I would consider low profile for Cherry MX style switches  
+1. [Cherry MX Compatible](https://github.com/Timception/3d-printables/tree/main/keycaps/mx) - Keycaps that I would consider low profile for Cherry MX style switches  
 	
 <img src="mx/images/mx-normal-timception.png" width="150">  
 <br/>  
   
-2. [Low Profile](/lp/)- Very thin keycaps made to fit Kailh Choc V2 switches  
+2. [Low Profile](https://github.com/Timception/3d-printables/tree/main/keycaps/lp)- Very thin keycaps made to fit Kailh Choc V2 switches  
 	
 <img src="lp/images/lp-normal-timception.png" width="150">  
 <br/>  

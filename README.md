@@ -15,11 +15,11 @@
 ## Knobs  
 
 <img src="images/EC12-Knobs.png" width="150">  
-<br/>  
 
 1. [EC-11](/knobs/EC11/) - Twirly knobs for EC-11 encoders (6mm diameter hole)  
 	
 2. [EC-12](/knobs/EC12/) - Twirly knobs for EC-12 encoders  
+<br/>  
 
 
 ## Drift Keyboard V3  

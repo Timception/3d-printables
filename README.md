@@ -31,4 +31,4 @@
 	
 3. [Outer Frame](/v3/outer-frame/) - Outer parts usually referred to as outer acrylic frame  
 	
-4. [Plates](/v3/plates/) - Plates for Drift V2 and V3 (Bambu Labs A1 Mini support in .3mf file)  
+4. [Plates](/v3/plates/) - Plates for Drift Keyboard V3 (Bambu Lab A1 Mini size in .3mf file)  

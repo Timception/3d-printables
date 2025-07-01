@@ -2,7 +2,7 @@
 
 ## Keycaps  
 
-1. [Cherry MX](/keycaps/mx/) - Keycaps that I would consider low profile for Cherry MX style switches  
+1. [Cherry MX Compatible](/keycaps/mx/) - Keycaps that I would consider low profile for Cherry MX style switches  
 	
 <img src="images/Otaru_Keycaps_Cherry.png" width="150">  
 <br/>  
@@ -14,12 +14,12 @@
 
 ## Knobs  
 
-<img src="images/EC12-Knobs.png" width="150">  
-
 1. [EC-11](/knobs/EC11/) - Twirly knobs for EC-11 encoders  
 (6mm diameter hole, not for D-Shaft type)  
 	
 2. [EC-12](/knobs/EC12/) - Twirly knobs for EC-12 encoders  
+
+<img src="images/EC12-Knobs.png" width="150">  
 <br/>  
 
 

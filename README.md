@@ -16,7 +16,8 @@
 
 <img src="images/EC12-Knobs.png" width="150">  
 
-1. [EC-11](/knobs/EC11/) - Twirly knobs for EC-11 encoders (6mm diameter hole)  
+1. [EC-11](/knobs/EC11/) - Twirly knobs for EC-11 encoders  
+(6mm diameter hole, not for D-Shaft type)  
 	
 2. [EC-12](/knobs/EC12/) - Twirly knobs for EC-12 encoders  
 <br/>  
@@ -24,7 +25,7 @@
 
 ## Drift Keyboard V3  
 
-1. [Battery Pack](/v3/battery-pack/) - The battery pack expansion parts  
+1. [Battery Pack](/v3/battery-pack/) - Battery pack expansion parts  
 	
 2. [MCU Cover](/v3/mcu/) - Microcontroller covers for extra protection  
 	

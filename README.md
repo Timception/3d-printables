@@ -4,12 +4,12 @@
 
 [1. Cherry MX](/keycaps/mx/) - Keycaps that I would consider low profile for Cherry MX style switches  
 	
-		<img src="images/Otaru_Keycaps_Cherry.png" width="150">  
-	<br/>  
-	[2. Low Profile](/keycaps/lp/) - Very thin keycaps made to fit Kailh Choc V2 switches  
+<img src="images/Otaru_Keycaps_Cherry.png" width="150">  
+<br/>  
+[2. Low Profile](/keycaps/lp/) - Very thin keycaps made to fit Kailh Choc V2 switches  
 	
-		<img src="images/Otaru_Keycaps_LP.png" width="150">  
-
+<img src="images/Otaru_Keycaps_LP.png" width="150">  
+<br/>  
 
 ## Knobs  
 

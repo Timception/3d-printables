@@ -7,7 +7,7 @@
 <img src="images/Otaru_Keycaps_Cherry.png" width="150">  
 <br/>  
   
-[2. Low Profile](/keycaps/lp/) - Very thin keycaps made to fit Kailh Choc V2 switches  
+[2. Low Profile](/keycaps/lp/)- Very thin keycaps made to fit Kailh Choc V2 switches  
 	
 <img src="images/Otaru_Keycaps_LP.png" width="150">  
 <br/>  
